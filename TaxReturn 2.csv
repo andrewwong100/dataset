@@ -1,4 +1,3 @@
-TaxReturn 1
 ID,Age,Employment,Education,Marital,Occupation,Income,Gender,Deductions,Hours
 1004641,38,Private,College,Unmarried,Service,81838,Female,0,72
 1010229,35,Private,Associate,Absent,Transport,72099,Male,0,30
